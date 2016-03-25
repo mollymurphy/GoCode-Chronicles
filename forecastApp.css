@@ -1,0 +1,28 @@
+
+html, body {
+  height: 100%;
+  background-color: #d1cfd4;
+  font-family: "Arvo", serif;
+  color: white;
+  text-align: center;
+}
+
+div {
+text-align: center;
+}
+
+.button_base:hover {
+    cursor: pointer;
+}
+
+.b01_simple_rollover {
+    color: #009cc5;
+    border: #009cc5 solid 1px;
+    padding: 5px;
+    background-color: #b6f3f9;
+}
+
+.b01_simple_rollover:hover {
+    color: #b6f3f9;
+    background-color: #009cc5;
+}
